@@ -68,7 +68,7 @@ This is the third skill in a set that makes Claude Code's answers inspectable:
 | Skill | Question it answers |
 |-------|--------------------|
 | [token-breakdown](https://github.com/TaeyangYeon/token-breakdown) | Where did the tokens go? |
-| [assumption-log](https://github.com/TaeyangYeon/assumption-log) | What was assumed but not verified? |
+| [assumption-log](https://github.com/TaeyangYeon/Assumption_log) | What was assumed but not verified? |
 | **road-not-taken** | What was considered but not chosen? |
 
 Cost, premises, choices. All three are single-file skills — no hooks, no
