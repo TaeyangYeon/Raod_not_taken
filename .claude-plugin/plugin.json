@@ -1,0 +1,12 @@
+{
+  "name": "road-not-taken",
+  "version": "1.0.0",
+  "description": "Surfaces the alternatives Claude silently rejected — appends a 🛤 Roads not taken footer with each discarded approach and the condition under which it wins, so you can promote the right one for your environment in one line.",
+  "author": {
+    "name": "TaeyangYeon",
+    "url": "https://github.com/TaeyangYeon"
+  },
+  "repository": "https://github.com/TaeyangYeon/road-not-taken",
+  "license": "MIT",
+  "keywords": ["alternatives", "decisions", "trade-offs", "transparency", "footer", "observability"]
+}
