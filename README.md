@@ -88,7 +88,3 @@ road-not-taken/
 │       └── SKILL.md
 └── README.md
 ```
-
-## License
-
-MIT
